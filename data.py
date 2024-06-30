@@ -37,7 +37,7 @@ while i<num_batches:
         #st.subheader(f"userID: {row['items']}")
         
         st.write(f"User documents:\n {row['user_documents']}")
-        st.write(f"User documents:\n {row['item_documents']}")
+        st.write(f"Item documents:\n {row['item_documents']}")
 
         #break
         
