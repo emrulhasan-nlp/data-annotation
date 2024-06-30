@@ -1,5 +1,5 @@
 # data-annotation
-
+    # Instruction to run the apps
     Step 0: Clone the repo: https://github.com/emrulhasan-nlp/data-annotation.git
     Step 1: pip install -r requirements.txt
     step 2: cd data-annotation
