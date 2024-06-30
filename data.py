@@ -33,11 +33,11 @@ while i<num_batches:
         user_documents=row['user_documents']
         item_documents=row['item_documents']
         
-        st.subheader(f"Index: {idx}, userID: {row['users']}, userID: {row['items']}")
+        st.subheader(f"Index: {idx}, userID: {row['users']}, itemID: {row['items']}")
         #st.subheader(f"userID: {row['items']}")
         
         st.write(f"User documents:\n {row['user_documents']}")
-        st.write(f"User documents:\n {row['item_documents']}")
+        st.write(f"Item documents:\n {row['item_documents']}")
 
         #break
         
