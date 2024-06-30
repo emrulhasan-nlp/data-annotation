@@ -13,18 +13,20 @@
 3. Enter your summary to the csv file called annotated_data.csv. There are two empty columns called user profile and item profile.
 
 # Code Numbers
- # Please use your correct code number to avoid mismatch
---Shuvankar biswas  --1
---Sanat Mollick --2
---Abdul Halim  --3
---Mridul Joshe --4
---Alim Bhuiyan  --5
---Monsur Biplob --7
---Md Adnan --8
---Nishu Chowdhury --9
---Raiyan Mostofa --10
---Arsi zaman --11
---Richana Richi --12
---Talha Jobayer --13
---Shamazda Islam --14
---Riyad Ashraf --15
+# Please use your correct code number to avoid mismatch
+    --Shuvankar biswas  --1
+    --Sanat Mollick --2
+    --Abdul Halim  --3
+    --Mridul Joshe --4
+    --Alim Bhuiyan  --5
+    --Monsur Biplob --7
+    --Md Adnan --8
+    --Nishu Chowdhury --9
+    --Raiyan Mostofa --10
+    --Arsi zaman --11
+    --Richana Richi --12
+    --Talha Jobayer --13
+    --Shamazda Islam --14
+    --Riyad Ashraf --15
+
+
