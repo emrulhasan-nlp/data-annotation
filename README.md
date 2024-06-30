@@ -8,9 +8,9 @@
 
 # SPECIAL INSTRUCTION
 
-1. Please read carefully the review and make summary. Don't just use the chatgpt to generate summary. Read the example user and item profile. Check the pdf inside the data folder and generate the user and item profile accordingly. Don't miss any formation.
-2. Double and triple check the user and item profile id. Don't misplace the summary.
-3. Enter your summary to the csv file called annotated_data.csv. There are two empty columns called user profile and item profile. Fill out these with your summary. Becarefull when entering your inputs so that you don't misplace the summary.
+   1. Read Carefully: Thoroughly read the review and create a summary. Do not rely solely on ChatGPT to generate the summary. Review the example user and item profiles inside the data folder (PDF file) and generate the user and item profiles accordingly, ensuring no information is missed.
+   2. Verify IDs: Double and triple-check the user and item profile IDs. Ensure the summaries are correctly matched with the respective profiles.
+   3. Enter Summaries: Input your summaries into the annotated_data.csv file. There are two empty columns labeled "user profile" and "item profile." Fill these columns with your summaries. Be careful when entering your inputs to avoid misplacing the summaries.
 
 # Code Numbers
 # Please use your correct code number to avoid mismatch
