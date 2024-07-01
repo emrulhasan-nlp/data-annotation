@@ -29,7 +29,9 @@
     --Shamazda Islam --14
     --Riyad Ashraf --15
     --MD. SAIFUL ISLAM --16
+    --Tasmia Rahman Mitu--17
     --Shaina Raza --25
+
 
 # Note: Read the example user and item profile twice on the pdf inside the data folder. And generate your summary according. Don't hesitate to ask any question if you require any clarification.
 
